@@ -1,0 +1,1 @@
+gcc -Wall -Werror -Wextra ps.c src/print.c src/ps_load.c src/sorted.c src/ps_instructions.c src/ps_instructions2.c src/ps_instructions3.c src/ps_instructions4.c src/ps_sort.c src/ps_size.c src/ps_sort_ext.c src/ps_sort_ext2.c src/ps_sorting.c src/ps_cleaning.c libft/libft.a
